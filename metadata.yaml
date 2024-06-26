@@ -1,0 +1,37 @@
+_repo: Riviera-b-Vigjatek-ket-felvonasban_73883
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Molnár, Ferenc
+    aliases:
+    - Molnar, Ferenc
+    - Neumann, Ferenc
+    - Molnár, Ferencz
+    - Molnar, Franz
+    - Molnàr, Francesco
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '5844'
+    url: http://www.gutenberg.org/2009/agents/5844
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ferenc_Moln%C3%A1r
+    - https://hu.wikipedia.org/wiki/Moln%C3%A1r_Ferenc_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2024-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73883'
+language: hu
+pgterms:marc905: 20240614133342molnr
+pgterms:marc906: '1926'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bFranklin-Társulat, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Riviera : $b Vígjáték két felvonásban'
+url: http://www.gutenberg.org/ebooks/73883
