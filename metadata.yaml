@@ -1,5 +1,8 @@
 _repo: Riviera-b-Vigjatek-ket-felvonasban_73883
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Molnár, Ferenc
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ferenc_Moln%C3%A1r
     - https://hu.wikipedia.org/wiki/Moln%C3%A1r_Ferenc_(%C3%ADr%C3%B3)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73883#Riviera-b-Vigjatek-ket-felvonasban
 gutenberg_issued: '2024-06-21'
 gutenberg_type: Text
 identifiers:
